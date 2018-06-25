@@ -1,6 +1,6 @@
 # gorm-bug-1731
 
-https://github.com/mtfelian/gorm-bug-1731
+https://github.com/jinzhu/gorm/issues/1731
 
 ## Reproduction steps
 
